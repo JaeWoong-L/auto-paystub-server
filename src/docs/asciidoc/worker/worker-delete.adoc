@@ -1,0 +1,16 @@
+[[Worker-삭제]]
+=== Worker 삭제
+근로자를 삭제합니다.
+
+==== Request
+
+//==== Http-Request
+include::{snippets}/worker/worker-delete/http-request.adoc[]
+
+//==== Path-Parameters
+include::{snippets}/worker/worker-delete/path-parameters.adoc[]
+
+==== Response
+
+//==== Http-Response
+include::{snippets}/worker/worker-delete/http-response.adoc[]

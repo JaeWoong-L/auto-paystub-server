@@ -1,0 +1,29 @@
+ifndef::snippet[]
+:snippet: build/generated-snippets
+endif::[]
+[[introduction]]
+== /companies
+회사 목록을 조회합니다.
+
+== Request
+
+=== Curl-Request
+include::{snippet}/company/company-get-all/curl-request.adoc[]
+
+=== Http-Request
+include::{snippet}/company/company-get-all/http-request.adoc[]
+
+=== Request-Body
+include::{snippet}/company/company-get-all/request-body.adoc[]
+
+
+== Response
+
+=== Http-Response
+include::{snippet}/company/company-get-all/http-response.adoc[]
+
+=== Response-Body
+include::{snippet}/company/company-get-all/response-body.adoc[]
+
+=== Response-Fields
+include::{snippet}/company/company-get-all/response-fields.adoc[]

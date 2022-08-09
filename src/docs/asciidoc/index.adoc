@@ -1,0 +1,29 @@
+ifndef::snippet[]
+:basedocdir: src/docs/asciidoc
+endif::[]
+
+= Auto Paystub API 문서
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 5
+:toc-title: 목차
+:sectlinks:
+
+[[Company-API]]
+== Company API
+
+include::{basedocdir}/company/company-post.adoc[]
+
+include::{basedocdir}/company/company-get-all.adoc[]
+
+include::{basedocdir}/company/company-delete.adoc[]
+
+
+[[Worker-API]]
+== Worker API
+
+include::{basedocdir}/worker/worker-post.adoc[]
+
+include::{basedocdir}/worker/worker-delete.adoc[]

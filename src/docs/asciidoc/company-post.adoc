@@ -1,0 +1,29 @@
+[[introduction]]
+== /companies
+회사를 등록합니다.
+
+== Request
+
+=== Curl-Request
+include::{snippets}/company/company-post/curl-request.adoc[]
+
+=== Http-Request
+include::{snippets}/company/company-post/http-request.adoc[]
+
+=== Request-Body
+include::{snippets}/company/company-post/request-body.adoc[]
+
+=== Request-Fields
+include::{snippets}/company/company-post/request-fields.adoc[]
+
+
+== Response
+
+=== Http-Response
+include::{snippets}/company/company-post/http-response.adoc[]
+
+=== Response-Body
+include::{snippets}/company/company-post/response-body.adoc[]
+
+=== Response-Fields
+include::{snippets}/company/company-post/response-fields.adoc[]

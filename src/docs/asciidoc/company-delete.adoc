@@ -1,0 +1,26 @@
+ifndef::snippet[]
+:snippet: build/generated-snippets
+endif::[]
+[[introduction]]
+== /companies
+회사를 삭제합니다.
+
+== Request
+
+=== Curl-Request
+include::{snippet}/company/company-delete/curl-request.adoc[]
+
+=== Http-Request
+include::{snippet}/company/company-delete/http-request.adoc[]
+
+=== Request-Body
+include::{snippet}/company/company-delete/request-body.adoc[]
+
+
+== Response
+
+=== Http-Response
+include::{snippet}/company/company-delete/http-response.adoc[]
+
+=== Response-Body
+include::{snippet}/company/company-delete/response-body.adoc[]
